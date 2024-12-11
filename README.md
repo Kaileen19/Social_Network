@@ -55,7 +55,6 @@ To audit the program, follow the steps [here](https://github.com/01-edu/public/t
 Here are some accounts if you are too lazy to make your own
 
 1. |Username: Antsiina|Password: 1234|
-2. |||
 
 ## Authors
 
